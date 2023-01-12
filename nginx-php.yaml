@@ -5,7 +5,7 @@ metadata:
   namespace: testcd
 data:
   nginx.conf: |
-    events {}
+    events {} 
     http {
       server {
         listen 80;
